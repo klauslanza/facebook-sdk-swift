@@ -26,6 +26,6 @@ Pod::Spec.new do |s|
 
   s.ios.dependency 'FacebookCore', '~> 0.3'
   s.ios.dependency 'Bolts', '~> 1.8'
-  s.ios.dependency 'FBSDKCoreKit', '~> 4.27'
-  s.ios.dependency 'FBSDKShareKit', '~> 4.27'
+  s.ios.dependency 'FBSDKCoreKit', '4.27'
+  s.ios.dependency 'FBSDKShareKit', '4.27'
 end
